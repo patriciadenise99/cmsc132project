@@ -1,0 +1,4 @@
+v 3
+file . "fileread.vhdl" "20180512104650.000" "20180512034822.791":
+  entity fileread at 1( 0) + 0 on 27;
+  architecture behave of fileread at 9( 132) + 0 on 28;
